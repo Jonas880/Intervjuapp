@@ -13,7 +13,7 @@ import math
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # --- !!! SECURITY WARNINGS !!! ---
-OPENAI_API_KEY = "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" # <-- Replace or use Secrets
+OPENAI_API_KEY = "" # <-- Replace or use Secrets
 
 # --- Check for API Key ---
 # if not OPENAI_API_KEY:
